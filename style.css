@@ -1,0 +1,108 @@
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    padding: 5%;
+    background-image:url(new.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+.mjk{
+    
+    padding: 5%;
+    margin-left: 20%;
+    margin-top: -39%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bar{
+    width: 65%;
+    max-width: 700%;
+    background:rgba(255,255,255,0.2);
+    display: flex;
+    align-items: center;
+    border-radius: 60px;
+    padding: 5px 20px;
+    backdrop-filter: blur(2px) saturate(100%);
+    margin-left: -5%;
+}
+
+.bar input{
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 19px 20px;
+    font-size: 20px;
+    color:#0a117a;
+}
+
+::placeholder{
+    color: rgb(44, 7, 131);
+    
+}
+
+.bar button img{
+    width: 25%;
+}
+
+.bar button{
+    border: 0;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    background: #d334ebd0;
+    cursor: pointer;
+
+
+}
+
+.mega{
+    margin-left: -2%;
+    margin-top: 4.50%;
+}
+
+.i{
+    margin-left: 76.40%;
+    margin-top: -7%;
+}
+.ulo{
+    margin-top: -5.73%;
+    margin-left: 77%;
+}
+
+
+.lopdop{
+    margin-top: -7.40%;
+    margin-left: 74%;
+    width: 190px;
+    height: 78px;
+    border-radius: 30px;
+    background: #e511ec67;
+   
+      
+       
+}
+
+
+.gh{
+    margin-top: -43%;
+    margin-left: 45%;
+}
+
+.pop{
+    margin-top: -2%;
+    margin-left: 50%;
+}
